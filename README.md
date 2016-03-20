@@ -7,5 +7,6 @@
  - http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
  - https://github.com/airbnb/javascript/tree/master/react
  - http://stackoverflow.com/questions/35654334/how-to-test-api-request-failures-with-redux-saga
+ - https://blog.risingstack.com/react-js-best-practices-for-2016/
 
 ## React native
