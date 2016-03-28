@@ -11,3 +11,9 @@
  - https://speakerdeck.com/vjeux/react-css-in-js
 
 ## React native
+
+
+## Javascript 
+ 
+ - http://www.2ality.com/
+ - https://addyosmani.com/blog/
