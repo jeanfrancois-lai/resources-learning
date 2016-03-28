@@ -17,3 +17,4 @@
  
  - http://www.2ality.com/
  - https://addyosmani.com/blog/
+ - http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
