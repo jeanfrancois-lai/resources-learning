@@ -20,3 +20,4 @@
  - http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
  - http://www.echojs.com/
  - http://maxlab.fr/
+ - http://www.thatjsdude.com/interview/js1.html
