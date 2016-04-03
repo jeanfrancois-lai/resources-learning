@@ -22,3 +22,8 @@
  - http://www.echojs.com/
  - http://maxlab.fr/
  - http://www.thatjsdude.com/interview/js1.html
+
+## Katas
+
+ - http://www.peterprovost.org/blog/2012/05/02/kata-the-only-way-to-learn-tdd/
+ 
