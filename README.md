@@ -29,6 +29,7 @@
  
 ## Blogs
 
+ - http://blog.differential.com/
  - http://www.berejeb.com/
  - http://www.miximum.fr/
  
