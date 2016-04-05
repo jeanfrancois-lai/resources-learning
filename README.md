@@ -3,15 +3,19 @@
 ## General 
  - https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d
  
+## Best practices
+  
+ - http://marmelab.com/blog/2015/12/17/react-directory-structure.html
+ - https://github.com/airbnb/javascript/tree/master/react
+ - https://blog.risingstack.com/react-js-best-practices-for-2016/
+ - https://speakerdeck.com/vjeux/react-css-in-js
+ 
 ## Redux
 
  - https://github.com/xgrommx/awesome-redux
- - http://marmelab.com/blog/2015/12/17/react-directory-structure.html
+ - https://github.com/markerikson/redux-ecosystem-links
  - http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
- - https://github.com/airbnb/javascript/tree/master/react
  - http://stackoverflow.com/questions/35654334/how-to-test-api-request-failures-with-redux-saga
- - https://blog.risingstack.com/react-js-best-practices-for-2016/
- - https://speakerdeck.com/vjeux/react-css-in-js
 
 ## React native
 
