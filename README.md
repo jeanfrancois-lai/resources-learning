@@ -1,5 +1,8 @@
 # resources-learning
 
+## General 
+ - https://medium.com/@sapegin/react-and-redux-single-page-applications-resources-22cd859b0c1d
+ 
 ## Redux
 
  - https://github.com/xgrommx/awesome-redux
