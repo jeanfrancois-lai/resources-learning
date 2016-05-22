@@ -37,6 +37,7 @@
 ## Blogs
 
  - http://blog.differential.com/
+ - http://jaysoo.ca/
  - http://www.berejeb.com/
  - http://www.miximum.fr/
  
